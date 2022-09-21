@@ -10,7 +10,7 @@ function hello($name){
         array(2,"bucket",10,'https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fc/Bucket_JE2_BE2.png'),
         array(3,"carrot",10,'https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4e/Carrot_JE3_BE2.png'),
         array(4,"cookie",10,'https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b3/Cookie_JE2_BE2.png'),
-        array(5,"bone",10,''https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3a/Bone_JE3_BE2.png'),
+        array(5,"bone",10,'https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3a/Bone_JE3_BE2.png'),
         array(6,"bread",10,'https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/44/Bread_JE3_BE3.png'),
         array(7,"apple",10,'https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/af/Apple_JE3_BE3.png'),
         array(8,"cake",10,'https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9a/Cake_%28item%29_JE3_BE3.png'),
